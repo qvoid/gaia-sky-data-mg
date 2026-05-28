@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Package build artifacts
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Data directory (downloaded datasets)
+data/
+
+# Cache
+.cache/
